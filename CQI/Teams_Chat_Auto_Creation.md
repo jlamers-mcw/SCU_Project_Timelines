@@ -11,6 +11,6 @@ Timeline for the project to automate creation of teams chats for each scu patien
 - error handling for members not found
 - error handling for members outside of mcw
 ### Version 2 Features
-- TBD ...
+- automatic pulling of the patient assignments from seperate sheets
 ### Known Errors
 - TODO
