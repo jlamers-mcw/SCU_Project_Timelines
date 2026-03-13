@@ -2,16 +2,17 @@
 ## Description
 Timeline for the project to automate creation of teams chats for each scu patient
 ### Version 1 Features
-- MAIN FEATURE: Create chat for each patient
-- BOD creation of excel containing all volunteers, roles, patients responsible for and volunteer emails
-- Automation of creation of chat when file is uploaded to one drive
-- Create a managers chat with pharm and doctor
-- Create a managers chat
-- message managers chat with all emails not able to add to chats
-- error handling for members not found
-- error handling for members outside of mcw
+- (Done) MAIN FEATURE: Create chat for each patient 
+- (Done) BOD creation of excel containing all volunteers, roles, patients responsible for and volunteer emails
+- (Done) Automation of creation of chat when file is uploaded to one drive
+- (Not Done) Create a managers chat with pharm and doctor
+- (Not Done) Create a managers chat
+- (Not Done) message managers chat with all emails not able to add to chats
+- (Not Done) error handling for members not found
+- (Not Done) error handling for members outside of mcw
+- Add Dates to title of the chats
 ### Version 2 Features
-- automatic pulling of the patient assignments from seperate sheets
-- how to handle removal of people/deleting chats
+- (Done) automatic pulling of the patient assignments from seperate sheets
+- (Not Done) how to handle removal of people/deleting chats
 ### Known Errors
 - TODO
